@@ -108,7 +108,7 @@ Bu SQL sorgusunun adım adım açıklaması:
 
 5.  **WHERE bonus < 1000 OR bonus IS NULL**:
 
-        - Bonus miktarı 1000'den küçük olanları veya bonusu olmayan (NULL olan) çalışanları filtreler.
+    - Bonus miktarı 1000'den küçük olanları veya bonusu olmayan (NULL olan) çalışanları filtreler.
 
 &nbsp;
 
