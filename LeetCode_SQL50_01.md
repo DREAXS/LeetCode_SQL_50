@@ -63,3 +63,6 @@ WHERE low_fats = 'Y' AND recyclable = 'Y'
 - **FROM Products**: Verilerin **Products** tablosundan alınacağını belirtir.
 
 - **WHERE low_fats = 'Y' AND recyclable = 'Y'**: Ürünlerin hem **düşük yağlı** (`low_fats = 'Y'`) hem de **geri dönüştürülebilir** (`recyclable = 'Y'`) olmasını filtreler. Bu koşul sağlanan ürünlerin **product_id**'lerini döndürür.
+  &nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

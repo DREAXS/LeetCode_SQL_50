@@ -105,3 +105,6 @@ ON s.product_id = p.product_id
 ### 4. **ON s.product_id = p.product_id**
 
 - **s.product_id** ile **p.product_id** değerleri eşleşen satırları birleştirir. Yani, **Sales** tablosundaki her satışın hangi ürüne ait olduğunu belirler.
+  &nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

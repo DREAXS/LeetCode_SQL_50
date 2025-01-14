@@ -101,3 +101,6 @@ ON Employees.id = EmployeeUNI.id
 ### 4. **ON Employees.id = EmployeeUNI.id**
 
 - **Employees.id** ile **EmployeeUNI.id** değerleri eşleşen satırları birleştirir.
+  &nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

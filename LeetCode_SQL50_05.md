@@ -56,3 +56,6 @@ WHERE LEN(content)>15
 - **SELECT tweet_id**: `Tweets` tablosundaki **tweet_id** sütunundaki verileri seçer.
 - **FROM Tweets**: Verilerin **Tweets** tablosundan alınacağını belirtir.
 - **WHERE LEN(content) > 15**: **content** sütunundaki metnin uzunluğu 15 karakterden büyük olan satırları seçer.
+  &nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

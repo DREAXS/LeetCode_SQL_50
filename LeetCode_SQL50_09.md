@@ -87,3 +87,6 @@ AND w2.temperature > w1.temperature
 
 - Bu ek koşul, **w2** tablosundaki sıcaklığın (**temperature**) **w1** tablosundaki sıcaklıktan (**temperature**) daha yüksek olmasını zorunlu kılar.
 - Yani, sadece bir gün arayla kaydedilen ve **w2** tarihindeki sıcaklığın, **w1** tarihindeki sıcaklıktan daha yüksek olduğu durumlar seçilir.
+  &nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

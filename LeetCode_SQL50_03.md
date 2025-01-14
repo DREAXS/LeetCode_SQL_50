@@ -64,3 +64,6 @@ WHERE area >= 3000000 OR population >=25000000
 - **FROM world**: Veriler **world** tablosundan alınır.
 - **WHERE area >= 3000000 OR population >= 25000000**: Yüzölçümü en az 3 milyon km² veya nüfusu en az 25 milyon olan ülkeleri seçer.
   Bu sorgu, **yüzölçümü 3 milyon km²** veya **nüfusu 25 milyon** olan ülkelerin **adını**, **nüfusunu** ve **yüzölçümünü** döndürür.
+  &nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

@@ -65,3 +65,6 @@ ORDER BY id
 - **FROM Views**: Verilerin **Views** tablosundan alınacağını belirtir.
 - **WHERE author_id = viewer_id**: **author_id** ve **viewer_id** değerlerinin eşit olduğu satırları seçer, yani kendi yazdığı makaleyi görüntüleyen yazarları filtreler.
 - **ORDER BY id**: Sonuçları **id** sütununa göre artan sırayla sıralar. Bu sorgu, **kendi yazdığı makaleyi görüntüleyen yazarların** **author_id** değerlerini **id** olarak döndürür.
+  &nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

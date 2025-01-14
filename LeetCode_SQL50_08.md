@@ -118,3 +118,6 @@ GROUP BY v.customer_id;
 
 - **GROUP BY** komutu, seçilen veriyi belirli bir sütuna göre gruplar. Burada, sonuçları **customer_id**'ye göre gruplar.
 - Bu, her müşteri için işlem yapılmayan ziyaretlerin sayısını hesaplamak için gereklidir.
+  &nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

@@ -124,3 +124,6 @@ GROUP BY act1.machine_id
 
 - **GROUP BY** komutu, sonuçları belirli bir sütuna göre gruplar. Burada, gruplama **act1.machine_id** sütununa göre yapılır.
 - Bu, her makine için işlem süresi hesaplamasını sağlar ve her makine için bir satır döndürür.
+  &nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

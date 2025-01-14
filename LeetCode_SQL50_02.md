@@ -67,3 +67,6 @@ WHERE referee_id IS NULL OR referee_id != 2
 
   - **referee_id IS NULL**: Referans gösteren müşteri olmayan (referee_id değeri NULL olan) müşterileri seçer.
   - **OR referee_id != 2**: Ya da **referee_id** değeri 2 olmayan (yani müşteri id'si 2 tarafından referans gösterilmeyen) müşterileri seçer.
+    &nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>
